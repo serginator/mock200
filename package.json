@@ -1,0 +1,14 @@
+{
+  "name": "mock200",
+  "version": "0.0.1",
+  "description": "Mock server to answer 200OK",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sergio Ruiz <serginator@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.9.5"
+  }
+}
